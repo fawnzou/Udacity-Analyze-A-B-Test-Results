@@ -8,10 +8,10 @@ Steps involved during the analysis were data cleaning, A/B testing,hypothesis te
 
 ## Statistical Analysis
 
-Sampling distributions and p-value calcualtions.
-Z-core tests.
-Logistic regression
-Multiple linear regression modelling to assess for interactions of independent variables.
+  *  Sampling distributions and p-value calcualtions.
+  *  Z-core tests.
+  *  Logistic regression
+  *  Multiple linear regression modelling to assess for interactions of independent variables.
 
 
 ## Findings
