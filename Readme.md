@@ -11,8 +11,7 @@ Steps involved during the analysis were data cleaning, A/B testing,hypothesis te
   *  Sampling distributions and p-value calcualtions.
   *  Z-score tests.
   *  Logistic regression
-  *  Multiple linear regression modelling to assess for interactions of independent variables.
-
+ 
 
 ## Findings
 The conversion rate for the new page was not greater to that of old page.
