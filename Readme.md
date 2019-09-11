@@ -8,7 +8,7 @@ Steps involved during the analysis were data cleaning, A/B testing,hypothesis te
 
 ## Statistical Analysis
 
-  *  Sampling distributions and p-value calcualtions.
+  *  Sampling distributions and p-value calculations.
   *  Z-score tests.
   *  Logistic regression
  
